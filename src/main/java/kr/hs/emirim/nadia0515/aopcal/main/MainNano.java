@@ -6,7 +6,7 @@ import kr.hs.emirim.nadia0515.aopcal.cal.RecCalculator;
 
 public class MainNano {
 	public static void main(String[] args) {
-		long num=10000;
+		long num=4;
 		
 		long start1 = System.nanoTime();
 		Calculator cal1 = new ImpCalculator();
